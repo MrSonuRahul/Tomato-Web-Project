@@ -6,7 +6,6 @@ const App = () => {
     <div className='app'>
       <Navbar/>
       {/* Data Added!.. */}
-      <h1>..</h1>
     </div>
   )
 }
